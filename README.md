@@ -1,76 +1,72 @@
- Video Game Sales Prediction (Regression Project)
-Overview
+# Machine Learning Projects
 
-This project focuses on predicting global video game sales using Machine Learning. A Linear Regression model was trained on a public Video Game Sales dataset to analyze trends and estimate sales performance based on various features.
+This repository contains two Machine Learning projects focused on **Regression** and **Classification** tasks. Each project demonstrates a complete ML workflow including data preprocessing, exploratory data analysis, model training, evaluation, and visualization.
 
-Key Features
+---
 
-Data cleaning and preprocessing
+## 🎮 Video Game Sales Prediction (Regression Project)
 
-Exploratory Data Analysis (EDA)
+### Overview
 
-Feature selection and normalization
+This project focuses on predicting **global video game sales** using Machine Learning. A **Linear Regression** model was trained on a public Video Game Sales dataset to analyze trends and estimate sales performance based on various features.
 
-Linear Regression model training
+### Key Features
 
-Model evaluation using train/test split
+* Data cleaning and preprocessing
+* Exploratory Data Analysis (EDA)
+* Feature selection and normalization
+* Linear Regression model training
+* Model evaluation using train/test split
+* Data visualization using Matplotlib and Seaborn
 
-Visualization using Matplotlib and Seaborn
+### Technologies Used
 
-Technologies Used
+* Python
+* Pandas
+* NumPy
+* Scikit-Learn
+* Matplotlib
+* Seaborn
 
-Python
+### Objective
 
-Pandas
+To understand video game sales patterns and predict global sales using regression techniques.
 
-NumPy
+---
 
-Scikit-Learn
+## 🧠 Adult Income Classification (Machine Learning Project)
 
-Matplotlib
+### Overview
 
-Seaborn
+This project aims to classify individuals into income categories using the **Adult Income dataset**. A **Logistic Regression** model was developed to predict whether an individual's income exceeds a specified threshold based on demographic features.
 
-Objective
+### Key Features
 
-To understand sales patterns and predict global video game sales using regression techniques.
+* Data preprocessing and categorical encoding
+* Exploratory Data Analysis (EDA)
+* Feature scaling
+* Logistic Regression model implementation
+* Performance evaluation using accuracy metrics
+* Train/test split for validation
 
-🧠 Adult Income Classification (Machine Learning Project)
-Overview
+### Technologies Used
 
-This project aims to classify individuals into income categories using the Adult Income dataset. A Logistic Regression model was developed to predict whether income exceeds a certain threshold based on demographic features.
+* Python
+* Pandas
+* NumPy
+* Scikit-Learn
+* Matplotlib
 
-Key Features
+### Objective
 
-Data preprocessing and categorical encoding
+To build a supervised classification model that predicts income levels based on demographic data.
 
-Exploratory Data Analysis (EDA)
+---
 
-Feature scaling
+## ⭐ Author
 
-Logistic Regression model implementation
+**Anish Bahadur Karki**
 
-Performance evaluation using accuracy metrics
+---
 
-Train/test split for validation
-
-Technologies Used
-
-Python
-
-Pandas
-
-NumPy
-
-Scikit-Learn
-
-Matplotlib
-
-Objective
-
-To build a classification model that predicts income levels using supervised Machine Learning techniques.
-
-⭐ Author
-
-Anish Bahadur Karki
-
+Feel free to explore the projects, experiment with the models, and build upon them for further learning and improvement.
