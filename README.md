@@ -1,4 +1,4 @@
-📊 Video Game Sales Prediction (Regression Project)
+ Video Game Sales Prediction (Regression Project)
 Overview
 
 This project focuses on predicting global video game sales using Machine Learning. A Linear Regression model was trained on a public Video Game Sales dataset to analyze trends and estimate sales performance based on various features.
