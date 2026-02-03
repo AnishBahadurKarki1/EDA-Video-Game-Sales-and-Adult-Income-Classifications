@@ -73,5 +73,4 @@ To build a classification model that predicts income levels using supervised Mac
 ⭐ Author
 
 Anish Bahadur Karki
-Bachelor (Hons) Computer Science Graduate
-Aspiring Machine Learning Engineer
+
