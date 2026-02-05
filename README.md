@@ -67,6 +67,4 @@ To build a supervised classification model that predicts income levels based on 
 
 **Anish Bahadur Karki**
 
----
 
-Feel free to explore the projects, experiment with the models, and build upon them for further learning and improvement.
